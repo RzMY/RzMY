@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
   <br>
   
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=RzMY&show_icons=true&theme=white&count_private=true&hide_border=true" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RzMY&theme=white&layout=compact&hide_border=true" /><br>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=RzMY&show_icons=true&theme=white&count_private=true&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RzMY&theme=white&layout=compact&hide_border=true" /><br>
 
   🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://blog.i-xiao.space/)
