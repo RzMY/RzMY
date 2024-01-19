@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello! I am RzMY&center=true&size=27"> </a> </h1>
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=RzMY&show_icons=true&theme=white&count_private=true) -->
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RzMY&theme=white&layout=compact) -->
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RzMY&show_icons=true&theme=white&count_private=true" /> </div>
