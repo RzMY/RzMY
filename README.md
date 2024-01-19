@@ -12,6 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello! I am RzMY!&center=true&size=27" />
+    </a>
+  </div>
+
+
+
+
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:find_onepiece@163.com)
