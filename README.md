@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RzMY&show_icons=true&theme=white&count_private=true)
 <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RzMY&theme=white&layout=compact)
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=RzMY&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RzMY" /> </div>
