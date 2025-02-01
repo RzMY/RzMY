@@ -37,13 +37,13 @@ Here are some ideas to get you started:
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RzMY&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RzMY&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RzMY&theme=dark&hide_border=true" alt="GitHub Streak" />
   </picture>
 
   <br>
   
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=RzMY&show_icons=true&theme=white&count_private=true&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RzMY&theme=white&layout=compact&hide_border=true" /><br>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=RzMY&show_icons=true&theme=dark&count_private=true&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RzMY&theme=dark&layout=compact&hide_border=true" /><br>
 
   <br>
 
