@@ -26,24 +26,28 @@ Here are some ideas to get you started:
   </picture>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
+  -->
+  <br>
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RzMY&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RzMY&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RzMY&theme=dark&hide_border=true" alt="GitHub Streak" />
   </picture>
-
+  
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RzMY&show_icons=true&theme=dark&count_private=true&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RzMY&show_icons=true&theme=light&count_private=true&hide_border=true" />
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=RzMY&show_icons=true&theme=dark&count_private=true&hide_border=true" />
   </picture>
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RzMY&theme=dark&layout=compact&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RzMY&theme=light&layout=compact&hide_border=true" />
