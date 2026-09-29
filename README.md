@@ -34,14 +34,6 @@ Here are some ideas to get you started:
   </picture>
   
   <br>
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RzMY&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RzMY&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RzMY&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </picture>
-  
-  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=RzMY&show_icons=true&theme=dark&count_private=true&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=RzMY&show_icons=true&theme=light&count_private=true&hide_border=true" />
@@ -53,14 +45,20 @@ Here are some ideas to get you started:
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RzMY&theme=light&layout=compact&hide_border=true" />
     <img height="180px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RzMY&theme=dark&layout=compact&hide_border=true" /><br>
   </picture>
+
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RzMY&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RzMY&theme=light&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RzMY&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </picture>
   <!--
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=RzMY&show_icons=true&theme=dark&count_private=true&hide_border=true" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RzMY&theme=dark&layout=compact&hide_border=true" /><br>
   -->
   
-
+  <!--
   <br>
-
   🌱 I’m currently learning:
   [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)](https://blog.i-xiao.space/)
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.i-xiao.space/)
@@ -94,22 +92,24 @@ Here are some ideas to get you started:
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://blog.i-xiao.space/)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://blog.i-xiao.space/)
   [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://blog.i-xiao.space/)
-  
+  -->
+
   <!-- programming tool icon 编程工具图标 -->
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
-  
+  <!-- <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br> -->
+  <br>
   <!-- svg -->
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+  
   
   <!-- gif -->
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
